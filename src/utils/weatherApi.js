@@ -1,5 +1,5 @@
 
-const api_key = '985f60bdb3bc15276124c9627c35b72d';
+const api_key = '';
 
 export default async function fetchData(city) {
     try {
